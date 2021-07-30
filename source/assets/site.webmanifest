@@ -1,0 +1,21 @@
+{
+    "name": "JustSteveKing - Laravel Transporter",
+    "short_name": "Laravel Transporter",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#6365f1",
+    "background_color": "#6365f1",
+    "description": "Object Oriented API Requests for Laravel.",
+    "icons": [
+        {
+            "src": "/assets/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
